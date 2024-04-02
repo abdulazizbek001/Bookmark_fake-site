@@ -1,0 +1,42 @@
+/*============================= HEADER START =============================*/
+
+.header{ 
+    padding-top: 56px;
+    margin-bottom: 108px;
+}
+
+.header_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_list {
+    display: flex;
+    align-items: center;
+    gap: 0 40px;
+}
+
+.header_link {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 131%;
+    letter-spacing: 0.12em;
+    text-align: right;
+    color: #828282;
+    text-transform: uppercase;
+}
+
+.header_link1 {
+    padding: 20px 26px;
+    background: #828282;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 131%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+/*============================= HEADER END =============================*/

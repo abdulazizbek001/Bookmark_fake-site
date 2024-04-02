@@ -1,0 +1,65 @@
+/*============================= DOWLAND START =============================*/
+
+.cards {
+    margin-bottom: 150px;
+}
+
+.cards_title {
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 114%;
+    text-align: center;
+    color: #828282;
+}
+
+.cards_text {
+    margin: 0 auto;
+    width: 606px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: center;
+    color: #828282;
+    margin-bottom: 72px;
+}
+
+.cards_list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 30px;
+}
+
+.cards_list li {
+    padding: 42px 27px;
+    background: #f3f3f3;
+    border-radius: 8px;
+}
+
+.cards_list li img {
+    margin: 0 auto;
+    display: block;
+}
+
+.cards-list_title {
+    margin-top: 32px;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 200%;
+    text-align: center;
+    color: #828282;
+}
+
+.cards-list_text {
+    margin: 0 auto;
+    width: 276px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 178%;
+    text-align: center;
+    color: #828282;
+}
+
+/*============================= DOWLAND END =============================*/

@@ -1,0 +1,58 @@
+/*============================= DOWLAND START =============================*/
+
+.dowland {
+    margin-bottom: 150px;
+}
+
+.dowland_title {
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 114%;
+    text-align: center;
+    color: #828282;
+}
+
+.dowland_text {
+    margin: 0 auto;
+    width: 606px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: center;
+    color: #828282;
+    margin-bottom: 80px;
+}
+
+.dowland_list {
+    display: flex;
+    align-items: center;
+    gap: 0 30px;
+}
+
+.dowland_list li img {
+    margin: 0 auto;
+    display: block;
+}
+
+.dowland-list_title {
+    margin-top: 32px;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 200%;
+    text-align: center;
+    color: #828282;
+}
+
+.dowland-list_text {
+    margin: 0 auto;
+    width: 340px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 178%;
+    text-align: center;
+    color: #828282;
+}
+
+/*============================= DOWLAND END =============================*/

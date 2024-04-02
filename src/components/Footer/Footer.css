@@ -1,0 +1,45 @@
+/*============================= FOOTER START =============================*/
+
+.footer {
+    width: 100%;
+    background: #828282;
+    padding: 26px 0;
+}
+
+.footer_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_wrap {
+    display: flex;
+    align-items: center;
+    gap: 0 48px;
+}
+
+.footer_title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footer_list {
+    display: flex;
+    align-items: center;
+    gap: 0 41px;
+}
+
+.footer_link {
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 131%;
+    letter-spacing: 0.12em;
+    text-align: right;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+/*============================= FOOTER END =============================*/
